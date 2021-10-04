@@ -9,3 +9,31 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+/*the top bow of the rainbow is set to red*/
+#red {
+  border-top-color: #f00;
+}
+/*the second bow of the rainbow is set to orange*/
+#orange {
+  border-top-color: #ffa500
+}
+/*the third bow of the rainbow is set to yellow*/
+#yellow {
+  border-top-color: #ff0;
+}
+/*the fourth bow of the rainbow is set to green*/
+#green {
+  border-top-color: #00bc3f;
+}
+/*the fifth bow of the rainbow is set to blue*/
+#blue {
+  border-top-color: #06f;
+}
+/*the sixth bow of the rainbow is set to indigo*/
+#indigo {
+  border-top-color: #8a2be2;
+}
+/*the seventh bow of the rainbow is set to violet*/
+#violet {
+  border-top-color: #d300c9;
+}
